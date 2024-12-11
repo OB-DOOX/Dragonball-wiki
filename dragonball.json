@@ -3,15 +3,5 @@
     "name": "Goku",
     "description": "Le héros principal de Dragon Ball.",
     "image": "/images/goku.png"
-  },
-  {
-    "name": "Vegeta",
-    "description": "Le prince des Saiyans.",
-    "image": "/images/vegeta.png"
-  },
-  {
-    "name": "Gohan",
-    "description": "Le fils de Goku.",
-    "image": "/images/gohan.png"
   }
 ]
