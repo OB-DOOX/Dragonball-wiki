@@ -1,7 +1,1023 @@
-[
-  {
-    "name": "Goku",
-    "description": "Le héros principal de Dragon Ball.",
-    "image": "/images/goku.png"
-  }
-]
+{
+  "sensei": [
+    {
+      "name": "Muten Roshi",
+      "alias": "Maître Tortue Géniale",
+      "description": "Le célèbre maître des arts martiaux qui a enseigné le Kamehameha à Goku et Krillin. Connu pour sa sagesse et ses tendances humoristiques.",
+      "students": ["Son Goku", "Krillin", "Yamcha"],
+      "signature_techniques": ["Kamehameha", "Bankoku Bikkuri Sho"],
+      "image": "https://preview.redd.it/gxgmm1qr84u31.jpg?width=640&crop=smart&auto=webp&s=b2dc46be47eaf3faae7fd0b03f7df95b28809e0f"
+    },
+    {
+      "name": "Korin",
+      "alias": "Karin-sama",
+      "description": "Un chat sage et maître des arts martiaux qui vit dans la tour de Korin. Il aide Goku à progresser avec son entraînement.",
+      "students": ["Son Goku", "Yajirobe"],
+      "signature_techniques": ["Test d'agilité", "Perfection spirituelle"],
+      "image": "https://manga-imperial.fr/cdn/shop/articles/maitre_karin_520x500_a2d86718-e01c-4136-9e87-61d92f2b5486_600x.png?v=1671886585"
+    },
+    {
+      "name": "Kami-sama",
+      "alias": "Dieu de la Terre",
+      "description": "Le protecteur de la Terre et créateur des Dragon Balls. Il a formé Goku pour devenir un véritable défenseur de la planète.",
+      "students": ["Son Goku"],
+      "signature_techniques": [
+        "Création des Dragon Balls",
+        "Contrôle spirituel"
+      ],
+      "image": "https://manga-imperial.fr/cdn/shop/articles/4b1a34442d05fd49be3a2d87c2cc6b73_520x500_073debec-8cd3-4916-8621-fc436e898b74_600x.jpg?v=1671886699"
+    },
+    {
+      "name": "Mr. Popo",
+      "alias": "Serviteur de Kami",
+      "description": "Un puissant assistant de Kami aidant à entraîner les héros avec des exercices physiques et spirituels.",
+      "students": ["Son Goku", "Krillin", "Yamcha", "Tenshinhan", "Chaozu"],
+      "signature_techniques": [
+        "Agilité surhumaine",
+        "Méthodes d'enseignement spirituel"
+      ],
+      "image": "https://static.wikia.nocookie.net/teamfourstar/images/9/9e/Mr._Popo.jpg/revision/latest/scale-to-width/360?cb=20160302023641"
+    },
+    {
+      "name": "Maître Kaio",
+      "alias": "Kaio du Nord",
+      "description": "Un des quatre Kaios qui a entraîné Goku dans l'au-delà. Connu pour son humour et ses blagues nulles.",
+      "students": ["Son Goku", "Piccolo", "Tenshinhan", "Chaozu", "Yamcha"],
+      "signature_techniques": ["Kaioken", "Genki Dama"],
+      "image": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=70,width=1200,height=675/catalog/crunchyroll/146a461ced2059c13425ae9e3b7bc744.jpg"
+    },
+    {
+      "name": "Whis",
+      "alias": "Maître des Anges",
+      "description": "L'ange assistant du Dieu de la Destruction Beerus, et un maître d'arts martiaux exceptionnel. Il entraîne Goku et Vegeta.",
+      "students": ["Son Goku", "Vegeta"],
+      "signature_techniques": ["Ultra Instinct", "Reflexes divins"],
+      "image": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/06/wh-fi.jpg"
+    },
+
+    {
+      "name": "Grandpa Gohan",
+      "alias": "Grand-père Gohan",
+      "description": "Le grand-père adoptif de Goku, lui ayant appris les bases des arts martiaux avant sa rencontre avec Muten Roshi.",
+      "students": ["Son Goku"],
+      "signature_techniques": ["Combat traditionnel", "Moralité"],
+      "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/06/dragon-ball-grandpa-gohan.jpg"
+    }
+  ],
+
+  "home": {
+    "title": "Accueil",
+    "content": "Bienvenue sur la page Accueil. Cette page contient des informations sur le projet.",
+    "welcomeMessage": "Bienvenue dans l'accueil Dragon Ball",
+    "description": "Découvrez l'univers fascinant de Dragon Ball en suivant Son Goku le saiyen ayant grandi sur terre.",
+    "sections": [
+      {
+        "title": "Sensei",
+        "content": "Explorez les Senseis emblématiques de Dragon Ball !"
+      },
+      {
+        "title": "Histoire",
+        "content": "Revivez les arcs marquants de la série."
+      },
+      {
+        "title": "Auteur",
+        "content": "Admirez des images iconiques et des moments incroyable de ."
+      },
+      {
+        "title": "Quiz",
+        "content": "Admirez des images iconiques et des moments mémorables."
+      }
+    ]
+  },
+
+  "author": {
+    "name": "Akira Toriyama",
+    "description": "Akira Toriyama est un mangaka et créateur japonais, surtout connu pour être l'auteur de Dragon Ball. Dragon Ball, lancé en 1984, raconte les aventures de Son Goku, un garçon doté de pouvoirs extraordinaires, et qui a marqué l'industrie du manga avec ses combats épiques et ses personnages mémorables. La série a été adaptée en animé. Akira Toriyama est également reconnu pour son style de dessin unique et son influence sur d'autres artistes et séries. Bien qu'il ait pris du recul par rapport à la gestion quotidienne de Dragon Ball, il reste impliqué dans les projets de la franchise.",
+    "images": [
+      {
+        "static": "https://cdn.comicarttracker.com/lc/_30/719133361.jpg",
+        "gif": "https://i.pinimg.com/originals/87/bd/c6/87bdc620743ec0337ce64a420272f861.gif",
+        "alt": "Akira 1"
+      },
+      {
+        "static": "https://i.pinimg.com/564x/26/dd/2c/26dd2cf38034581e2a139052cafe083a.jpg",
+        "gif": "https://media.tenor.com/s5SYUy7yeMkAAAAM/goku-ssj.gif",
+        "alt": "Akira 2"
+      },
+      {
+        "static": "https://cdn.comicarttracker.com/lc/_13/715305361.jpg",
+        "gif": "https://media.tenor.com/3nKnFIOnb2gAAAAM/sailormoon-run.gif",
+        "alt": "Akira 3"
+      },
+      {
+        "static": "https://www.sellmycomicart.com/images/akira-toriyama-original-art-21964220.jpg",
+        "gif": "https://media1.tenor.com/m/2cFMeeskpv0AAAAC/dbz-fusion-dance.gif",
+        "alt": "Akira 4"
+      }
+    ],
+    "works": [
+      {
+        "image": "https://media.senscritique.com/media/000015144446/300/dr_slump.jpg",
+        "alt": "Dr. Slump",
+        "description": "Le premier manga à succès de l'auteur, très porté sur la notion du comique dans ses dialogues et ses personnages, c'est à travers cette série qu'on découvre peu à peu le style humoristique propre au mangaka et qu'on reverra abondamment dans ses travaux suivants."
+      },
+      {
+        "image": "https://media.senscritique.com/media/000020361827/300/histoires_courtes.jpg",
+        "alt": "Histoires Courtes",
+        "description": "Nous avons là un livre dans lequel on retrouve plusieurs aventures imaginées par Toriyama et ce, à travers trois volumes reliés. L'homme est assailli d'idées et il ne peut s'empêcher de dégainer son crayon à papier, pour le plus grand bonheur de ses fans endurcis."
+      },
+      {
+        "image": "https://media.senscritique.com/media/000015522255/300/cowa.jpg",
+        "alt": "Cowa!",
+        "description": "Un one-shot sans prétention avec son lot de scènes drôles et de personnages loufoques. L'ensemble est assez simpliste, mais on y retrouve la recette irrésistible de l'auteur qui peut fonctionner chez les petits comme chez les grands. On en ressort avec un sourire aux lèvres."
+      },
+      {
+        "image": "https://media.senscritique.com/media/000020005193/300/cross_epoch.jpg",
+        "alt": "Cross Epoch",
+        "description": "La rencontre entre deux auteurs à forte renommée, l'un est l'auteur de Dragon Ball, la série phare des années 80 et 90, et l'autre est à l'origine du phénomène manga actuel qu'est One Piece. Ils partent donc dans un gros délire où chacun apporte son humour et ses personnages pour un mélange super-cool et attendu de tous."
+      }
+    ],
+    "video": {
+      "url": "https://www.youtube.com/embed/xtRE-0kHNIU?si=HRgnTLyS84-k2ljT",
+      "title": "Gael LTB"
+    }
+  },
+  "questions": [
+    {
+      "question": "Quel est le créateur de Dragon Ball ?",
+      "options": [
+        "Akira Toriyama",
+        "Eiichiro Oda",
+        "Masashi Kishimoto",
+        "Yoshihiro Togashi"
+      ],
+      "answer": "Akira Toriyama"
+    },
+    {
+      "question": "Quelle est la transformation la plus puissante de Goku dans Dragon Ball Super ?",
+      "options": [
+        "Super Saiyan 3",
+        "Ultra Instinct",
+        "Kaioken",
+        "Super Saiyan Blue"
+      ],
+      "answer": "Ultra Instinct"
+    },
+    {
+      "question": "Quel est le nom du premier fils de Goku ?",
+      "options": ["Trunks", "Gohan", "Goten", "Pan"],
+      "answer": "Gohan"
+    },
+    {
+      "question": "Comment s'appelle le Dieu de la Destruction de l'univers 7 ?",
+      "options": ["Beerus", "Whis", "Champa", "Zeno"],
+      "answer": "Beerus"
+    },
+    {
+      "question": "Qui a enseigné le Kamehameha à Goku ?",
+      "options": ["Maître Kaio", "Muten Roshi", "Kami-sama", "Yajirobe"],
+      "answer": "Muten Roshi"
+    },
+    {
+      "question": "Combien de Dragon Balls faut-il pour exaucer un vœu ?",
+      "options": ["5", "6", "7", "8"],
+      "answer": "7"
+    },
+    {
+      "question": "Quel est le véritable nom de Piccolo ?",
+      "options": ["Namek", "Demon King", "Ma Junior", "Kami"],
+      "answer": "Ma Junior"
+    },
+    {
+      "question": "Quel personnage utilise le Kaioken ?",
+      "options": ["Gohan", "Vegeta", "Goku", "Trunks"],
+      "answer": "Goku"
+    },
+    {
+      "question": "Comment s'appelle la femme de Goku ?",
+      "options": ["Bulma", "Chi-Chi", "Videl", "Lunch"],
+      "answer": "Chi-Chi"
+    },
+    {
+      "question": "Qui est le rival principal de Goku ?",
+      "options": ["Freezer", "Vegeta", "Cell", "Majin Buu"],
+      "answer": "Vegeta"
+    }
+  ],
+
+  "episodes": [
+    {
+      "id": 1,
+      "logodb": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Dragon_Ball_anime_logo.png",
+      "title": "Arc 1 : La rencontre avec Bulma et la quête des Dragon Balls",
+      "description": "L’histoire commence avec Son Goku, un jeune garçon doté d’une queue de singe, vivant seul dans la montagne. Sa vie change lorsqu’il rencontre Bulma, une adolescente à la recherche des Dragon Balls, des artefacts magiques qui exaucent un souhait lorsqu’on les réunit. Goku possède l’une d’elles, et il décide de l’accompagner dans sa quête. Ensemble, ils affrontent des ennemis comme Pilaf, un empereur ridicule cherchant à dominer le monde, mais aussi des obstacles comiques et dangereux. Finalement, ils empêchent Pilaf d’utiliser les Dragon Balls.",
+      "arc": "Dragonball"
+    },
+    {
+      "id": 2,
+      "title": "Son Goku Petit nuage magique",
+      "src": "https://i.pinimg.com/originals/bf/4c/ca/bf4cca58514197f13d8a1cbbf4959a0e.gif",
+      "alt": "Son Goku Petit nuage magique",
+      "arc": "Dragonball"
+    },
+    {
+      "id": 3,
+      "title": "Son Goku Et Bulma",
+      "src": "https://i.pinimg.com/originals/11/62/39/116239417a3f544173f31b31480e8a54.gif",
+      "alt": "Son Goku Et Bulma",
+      "arc": "Dragonball"
+    },
+    {
+      "id": 4,
+      "title": "Son Goku Qui Tire la langue",
+      "src": "https://i.gifer.com/origin/0e/0e2b4ee724ed371eb6b98e099e8de6bf_w200.gif",
+      "alt": "Son Goku Qui Tire la langue",
+      "arc": "Dragonball"
+    },
+    {
+      "id": 5,
+      "title": "Arc 2 : L’entraînement avec Tortue Géniale",
+      "description": "Goku rencontre Tortue Géniale (Kame Sennin), un maître des arts martiaux excentrique, et commence un entraînement intense aux côtés de Krillin, son futur meilleur ami et rival. Tortue Géniale leur apprend des techniques célèbres, notamment le Kamehameha, et les pousse à dépasser leurs limites.",
+      "arc": "Dragonball"
+    },
+    {
+      "id": 6,
+      "title": "Kamé Sennin",
+      "src": "https://64.media.tumblr.com/ca71030ecf31b24969a6a89ce899e8e4/tumblr_pai4avTjFd1wyh2j4o1_500.gif",
+      "alt": "Kamé Sennin",
+      "arc": "Dragonball"
+    },
+
+    {
+      "id": 8,
+      "title": "Kamé Sennin Son Goku Krillin",
+      "src": "https://media.tenor.com/xrxKCRL3prMAAAAM/vn.gif",
+      "alt": "Kamé Sennin Son Goku Krillin",
+      "arc": "Dragonball"
+    },
+    {
+      "id": 9,
+      "title": "Arc 3 : Le 21e Tenkaichi Budokai",
+      "description": "Goku et Krillin participent au tournoi d’arts martiaux, le Tenkaichi Budokai, où ils affrontent de puissants combattants, notamment Jackie Chun (un pseudonyme de Tortue Géniale). Goku impressionne le monde par sa force, mais ne parvient pas à remporter le tournoi. L’arc explore l’esprit de compétition et la quête de dépassement de soi.",
+      "arc": "Dragonball"
+    },
+    {
+      "id": 10,
+      "title": "Son Goku Vs Krillin",
+      "src": "https://i.pinimg.com/originals/dc/53/99/dc5399c95031c161c66eb81d67bde328.gif",
+      "alt": "Son Goku Vs Krillin",
+      "arc": "Dragonball"
+    },
+    {
+      "id": 11,
+      "title": "Son Goku Et Krillin",
+      "src": "https://media.tenor.com/bYFG51Xees4AAAAM/krillin-goku.gif",
+      "alt": "Son Goku Et Krillin",
+      "arc": "Dragonball"
+    },
+    {
+      "id": 12,
+      "title": "Jackie Chun vs Son Goku",
+      "src": "https://media.tenor.com/R9_fUQedn-gAAAAM/goku-jackie-chun.gif",
+      "alt": "Jackie Chun vs Son Goku",
+      "arc": "Dragonball"
+    },
+    {
+      "id": 13,
+      "title": "Arc 4 : L’armée du Ruban Rouge",
+      "description": "Goku poursuit sa quête des Dragon Balls et se heurte à l’armée du Ruban Rouge, une organisation criminelle cherchant à utiliser les Dragon Balls pour dominer le monde. Cet arc introduit des personnages mémorables comme Muscle Tower, le ninja Sergent Metallic, et surtout Tao Pai Pai, un assassin redoutable. Goku finit par détruire l’armée du Ruban Rouge.",
+      "arc": "Dragonball"
+    },
+    {
+      "id": 14,
+      "title": "Son Goku-vs-Ninja-Murasaki",
+      "src": "https://www.dragon-ball-gif.com/wp-content/uploads/2021/08/Goku-vs-Ninja-Murasaki.gif",
+      "alt": "Son Goku-vs-Ninja-Murasaki",
+      "arc": "Dragonball"
+    },
+    {
+      "id": 15,
+      "title": "Tao Pai Pai",
+      "src": "https://www.dragon-ball-gif.com/wp-content/uploads/2021/12/Goku-vs-taopaipai.gif",
+      "alt": "Tao Pai Pai",
+      "arc": "Dragonball"
+    },
+    {
+      "id": 16,
+      "title": "Tao Pai Pai 2",
+      "src": "https://i.imgur.com/BTKTgvR.gif",
+      "alt": "Tao Pai Pai 2",
+      "arc": "Dragonball"
+    },
+    {
+      "id": 17,
+      "title": "Arc 5 : Le tournoi avec Uranai Baba",
+      "description": "Après avoir vaincu le Ruban Rouge, Goku cherche les dernières Dragon Balls et fait équipe avec des alliés pour vaincre les guerriers d’Uranai Baba, une voyante mystique. Cet arc marque la réunion émouvante de Goku avec l’esprit de son grand-père adoptif, Son Gohan.",
+      "arc": "Dragonball"
+    },
+    {
+      "id": 18,
+      "title": "Uranai Baba",
+      "src": "https://64.media.tumblr.com/4bc8240637fc5032858b042b3d5f18a0/tumblr_plqvbqpaZm1s15h3qo1_400.gifv",
+      "alt": "Uranai Baba",
+      "arc": "Dragonball"
+    },
+    {
+      "id": 19,
+      "title": "Grand-père Gohan",
+      "src": "https://64.media.tumblr.com/tumblr_lpoxq2h5rm1qigmnho6_r1_500.gif",
+      "alt": "Grand-père Gohan",
+      "arc": "Dragonball"
+    },
+    {
+      "id": 20,
+      "title": "Arc 6 : Le 22e Tenkaichi Budokai",
+      "description": "Goku, Krillin, et leurs amis participent à un autre Tenkaichi Budokai, où ils affrontent des adversaires encore plus forts, comme Ten Shin Han. Goku montre d'énormes progrès, mais Ten Shin Han remporte le tournoi dans un combat très serré.",
+      "arc": "Dragonball"
+    },
+    {
+      "id": 21,
+      "title": "Son Goku vs Tenshinhan",
+      "src": "https://i.pinimg.com/originals/f7/7f/94/f77f945b56260a5139f08a5f24f87fe7.gif",
+      "alt": "Son Goku vs Tenshinhan",
+      "arc": "Dragonball"
+    },
+    {
+      "id": 22,
+      "title": "Krillin contre Chaoz",
+      "src": "https://64.media.tumblr.com/f9cd8a3a6502084b4898e239b58f437c/tumblr_pm6hjrmrV41s15h3qo1_400.gif",
+      "alt": "Krillin contre Chaoz",
+      "arc": "Dragonball"
+    },
+    {
+      "id": 23,
+      "title": "Son Goku Vs Krillin",
+      "src": "https://static.wikia.nocookie.net/2538c3a1-f27a-4037-bbf4-d109fbd0fcfa",
+      "alt": "Son Goku Vs Krillin",
+      "arc": "Dragonball"
+    },
+    {
+      "id": 24,
+      "title": "Pamputt vs Goku",
+      "src": "https://64.media.tumblr.com/27dcad5d3bfcf3e1f602717502118063/tumblr_pm9rxexXtD1s15h3qo1_400.gifv",
+      "alt": "Pamputt vs Goku",
+      "arc": "Dragonball"
+    },
+    {
+      "id": 25,
+      "title": "Arc 7 : Le Roi Démon Piccolo",
+      "description": "Après que Krillin soit tué par Tambourine, un subordonné de Piccolo Daimaô, Goku se lance dans une quête pour venger son ami. Il finit par affronter et vaincre Piccolo Daimaô après un long combat intense.",
+      "arc": "Dragonball"
+    },
+    {
+      "id": 26,
+      "title": "Tambourine vs Krillin",
+      "src": "https://media.tenor.com/f8878qTgcmsAAAAM/tambourine-krillin.gif",
+      "alt": "Tambourine vs Krillin",
+      "arc": "Dragonball"
+    },
+    {
+      "id": 27,
+      "title": "Piccolo Daimaô",
+      "src": "https://media.tenor.com/IV5Cz5OI-OMAAAAM/king-piccolo.gif",
+      "alt": "Piccolo Daimaô",
+      "arc": "Dragonball"
+    },
+    {
+      "id": 28,
+      "title": "Piccolo Daimaô vs Goku",
+      "src": "https://64.media.tumblr.com/89b8666752fdec37199060422f93366f/tumblr_pmsiwgC5wX1s15h3qo1_400.gifv",
+      "alt": "Piccolo Daimaô vs Goku",
+      "arc": "Dragonball"
+    },
+    {
+      "id": 29,
+      "title": "Arc 8 : Le 23e Tenkaichi",
+      "description": "Quelques années après avoir vaincu Piccolo Daimaô, Goku participe à un nouveau tournoi. Cette fois, il affronte Ma Junior, la réincarnation de Piccolo Daimaô. Goku finit par gagner et épouse Chi-Chi, mettant ainsi fin à la série Dragon Ball originale.",
+      "arc": "Dragonball"
+    },
+    {
+      "id": 30,
+      "title": "Son Goku Vs Piccolo",
+      "src": "https://i.pinimg.com/originals/cc/02/69/cc0269c5f17f73e993048683ff53bdbd.gif",
+      "alt": "Son Goku Vs Piccolo",
+      "arc": "Dragonball"
+    },
+    {
+      "id": 32,
+      "title": "Son Goku vs Piccolo 2",
+      "src": "https://i.pinimg.com/originals/c1/d5/d4/c1d5d46ca1802925277aa455c0ef015e.gif",
+      "alt": "Son Goku vs Piccolo 2",
+      "arc": "Dragonball"
+    },
+
+    {
+      "id": 33,
+      "title": "Goky et chi-chi marié",
+      "src": "https://media.tenor.com/fLCsfPKZrlkAAAAM/goku-chichi.gif",
+      "alt": "Goku Et Chichi",
+      "arc": "Dragonball"
+    },
+    {
+      "id": 34,
+      "logodb": "https://upload.wikimedia.org/wikipedia/fr/f/f2/Dragon_Ball_Z_Logo.svg",
+      "title": "Arc 1 : Les Saiyans",
+      "description": "Après les événements de Dragon Ball , Goku découvre qu'il est en réalité un Saiyan, un guerrier d'une race extraterrestre. Son frère Raditz arrive sur Terre pour l'informer de ses origines et de sa mission de détruire la planète. Goku s'allie à Piccolo, son ancien ennemi, pour affronter Raditz. Après la mort de Goku, les Saiyans Vegeta et Nappa arrivent sur Terre, cherchant à récupérer les Dragon Balls pour devenir immortels. Goku, ressuscité grâce aux Dragon Balls, affronte Vegeta dans un combat épique.",
+      "arc": "DragonballZ"
+    },
+    {
+      "id": 33,
+      "title": "Son Goku Adulte",
+      "src": "https://media.tenor.com/YiSg6LbDzzgAAAAM/drago-ball-z-goku.gif",
+      "alt": "Son Goku Adulte",
+      "arc": "DragonballZ"
+    },
+    {
+      "id": 34,
+      "title": "Raditz Goku mort",
+      "src": "https://media.tenor.com/ZsKGHUHSuGEAAAAM/raditz.gif",
+      "alt": "Raditz Goku mort",
+      "arc": "DragonballZ"
+    },
+    {
+      "id": 35,
+      "title": "Nappa et Vegeta",
+      "src": "https://i.pinimg.com/originals/d0/a1/32/d0a132e88eaad98d736429181d5634c8.gif",
+      "alt": "Nappa et Vegeta",
+      "arc": "DragonballZ"
+    },
+    {
+      "id": 36,
+      "title": "Goku vs Nappa",
+      "src": "https://media.tenor.com/EXJOgbs7rKwAAAAM/dragonball-goku.gif",
+      "alt": "Goku vs Nappa",
+      "arc": "DragonballZ"
+    },
+    {
+      "id": 37,
+      "title": "Son Goku vs Vegeta",
+      "src": "https://qph.cf2.quoracdn.net/main-qimg-21ce14799294dd3ad9a0b796abffef7c",
+      "alt": "Son Goku vs Vegeta",
+      "arc": "DragonballZ"
+    },
+    {
+      "id": 38,
+      "title": "Son Goku vs Vegeta 2",
+      "src": "https://media.tenor.com/kdlLsFjGaRkAAAAM/vegeta-goku.gif",
+      "alt": "Son Goku vs Vegeta 2",
+      "arc": "DragonballZ"
+    },
+    {
+      "id": 39,
+      "title": "Freezer 1ère forme en colère",
+      "src": "https://www.dragon-ball-gif.com/wp-content/uploads/2023/10/Freezer-1ere-forme-en-colere.gif",
+      "alt": "Freezer f1",
+      "arc": "DragonballZ"
+    },
+    {
+      "id": 40,
+      "title": "Krillin qui explose",
+      "src": "https://media.tenor.com/TPm5pDK5FmIAAAAM/hu006.gif",
+      "alt": "Krillin qui explose",
+      "arc": "DragonballZ"
+    },
+    {
+      "id": 41,
+      "title": "Son Goku SSJ1",
+      "src": "https://media.tenor.com/s5SYUy7yeMkAAAAM/goku-ssj.gif",
+      "alt": "Son Goku ssj1",
+      "arc": "DragonballZ"
+    },
+    {
+      "id": 42,
+      "title": "Son Goku vs Freezer",
+      "src": "https://37.media.tumblr.com/7f32b31b490301ac6a73bd7da14e6b4f/tumblr_mrjwjtCtQg1rey868o1_500.gif",
+      "alt": "Son Goku vs Freezer",
+      "arc": "DragonballZ"
+    },
+    {
+      "id": 43,
+      "title": "Arc 2 : Les Androïdes et Cell",
+      "description": "Après avoir été ressuscités, Goku et ses amis font face aux androïdes créés par le Dr Gero de l'Armée du Ruban Rouge. Trunks, le fils de Vegeta et Bulma, arrive du futur pour prévenir tout le monde d'une menace encore plus grande : Cell, un monstre bio-artificiel. Après une série de combats intenses, Gohan, le fils de Goku, atteint la forme de Super Saiyan 2 et tue Cell lors d'un affrontement épique.",
+      "arc": "DragonballZ"
+    },
+    {
+      "id": 44,
+      "title": "Trunks du futur",
+      "src": "https://i.gifer.com/origin/8d/8d2d7f4188f893d6b27d5728aefafb9f_w200.gif",
+      "alt": "Trunk du futur",
+      "arc": "DragonballZ"
+    },
+    {
+      "id": 45,
+      "title": "Dr. Gero",
+      "src": "https://media.tenor.com/fr41PuY1IT8AAAAM/dragonball-android.gif",
+      "alt": "Dr.gero",
+      "arc": "DragonballZ"
+    },
+    {
+      "id": 46,
+      "title": "C17 vs Dr. Gero",
+      "src": "https://64.media.tumblr.com/3f0d0ca6898f29aa9aadb53e06a79b3a/tumblr_pdbarv52DH1wka6nco1_540.gif",
+      "alt": "c17 vs dr.gero",
+      "arc": "DragonballZ"
+    },
+    {
+      "id": 47,
+      "title": "C16 C17 C18",
+      "src": "https://img1.picmix.com/output/stamp/normal/8/2/6/9/2169628_fd879.gif",
+      "alt": "c16 c17 c18",
+      "arc": "DragonballZ"
+    },
+    {
+      "id": 48,
+      "title": "Cell Junior",
+      "src": "https://i.imgur.com/eHd6UrD.gif",
+      "alt": "Cell Junior",
+      "arc": "DragonballZ"
+    },
+    {
+      "id": 49,
+      "title": "Goku sacrifice",
+      "src": "https://static.wikia.nocookie.net/ab78edd3-dc95-457a-97bf-93aea6a7ece0/scale-to-width/370",
+      "alt": "Goku sacrifice",
+      "arc": "DragonballZ"
+    },
+    {
+      "id": 50,
+      "title": "Son Gohan SSJ2",
+      "src": "https://i.pinimg.com/originals/5f/dc/ba/5fdcbad9cb6c0ac08de70dafc93a2100.gif",
+      "alt": "Son Gohan ssj2",
+      "arc": "DragonballZ"
+    },
+    {
+      "id": 51,
+      "title": "Son Gohan Son Goku",
+      "src": "https://media.tenor.com/QSJxgRAcPj4AAAAM/father-son-kamehameha.gif",
+      "alt": "Son Gohan Son Goku",
+      "arc": "DragonballZ"
+    },
+    {
+      "id": 52,
+      "title": "Arc 3 : Majin Buu",
+      "description": "La menace suivante vient sous la forme de Majin Buu, un démon ancien. Babidi, le sorcier qui contrôle Buu, tente de manipuler les héros de la Terre, y compris Vegeta, pour libérer le démon. Après plusieurs formes de Buu, Goku et ses alliés affrontent Kid Buu dans un combat ultime. Goku utilise l'énergie de toute l'univers pour créer un Genkidama et détruire Majin Buu une bonne fois pour toutes.",
+      "arc": "DragonballZ"
+    },
+    {
+      "id": 53,
+      "title": "Son Goku",
+      "src": "https://static.wikia.nocookie.net/a7ec66f3-87ce-481c-b694-9a97d6cd7f6a/scale-to-width/755",
+      "alt": "Son Goku",
+      "arc": "DragonballZ"
+    },
+    {
+      "id": 54,
+      "title": "Babidi",
+      "src": "https://media.tenor.com/oNvf4hTSHQoAAAAM/babidi-dragon-ball.gif",
+      "alt": "Babidi",
+      "arc": "DragonballZ"
+    },
+    {
+      "id": 55,
+      "title": "Majin Buu",
+      "src": "https://media.tenor.com/gslzSo0_g3QAAAAM/caine-majin-buu.gif",
+      "alt": "Buu",
+      "arc": "DragonballZ"
+    },
+    {
+      "id": 56,
+      "title": "Son Goku SSJ3",
+      "src": "https://media.tenor.com/Z3DYCffBSt4AAAAM/super-saiyan3-goku.gif",
+      "alt": "Son Goku Ssj3",
+      "arc": "DragonballZ"
+    },
+    {
+      "id": 57,
+      "title": "Son Goku vs Vegeta SSJ2",
+      "src": "https://media.tenor.com/ZzFVD7y-DjQAAAAM/goku-majin-vegeta.gif",
+      "alt": "Son Goku vs Vegeta ssj2",
+      "arc": "DragonballZ"
+    },
+    {
+      "id": 58,
+      "title": "Vegeta Sacrifice",
+      "src": "https://media.tenor.com/CwxWqD6TO6wAAAAM/majin-vegeta-final-explosion.gif",
+      "alt": "Vegeta sacrifice",
+      "arc": "DragonballZ"
+    },
+    {
+      "id": 59,
+      "title": "Vegetto SSJ1",
+      "src": "https://media.tenor.com/0QaZ012zUTIAAAAM/vegito.gif",
+      "alt": "Vegetto ssj1",
+      "arc": "DragonballZ"
+    },
+    {
+      "id": 60,
+      "title": "Son Goku vs Kid Buu",
+      "src": "https://media.tenor.com/GC3qp0xrd9kAAAAM/goku-kid-buu.gif",
+      "alt": "Son Goku vs kid buu",
+      "arc": "DragonballZ"
+    },
+    {
+      "id": 61,
+      "title": "Kid Buu vs Vegeta",
+      "src": "https://media.tenor.com/jeC7g6Rxs6IAAAAM/kid-buu.gif",
+      "alt": "Kid buu vs Vegeta",
+      "arc": "DragonballZ"
+    },
+    {
+      "id": 62,
+      "title": "Son Goku Genkidama",
+      "src": "https://static.wikia.nocookie.net/f4fcb6b8-67bc-46bc-89ca-c8b39c005446/scale-to-width/370",
+      "alt": "Son Goku genkidama",
+      "arc": "DragonballZ"
+    },
+    {
+      "id": 63,
+      "title": "Arc 4 : L'épilogue et le 28e Tenkaichi Budokai",
+      "description": "La paix revient sur Terre après la destruction de Majin Buu. Des années plus tard, Goku participe au 28e Tenkaichi Budokai où il rencontre Uub, la réincarnation humaine de Kid Buu. Goku a choisit d'entraîner Uub, marquant la fin de Dragon Ball Z , avec l'espoir que la paix dure pour toujours.",
+      "arc": "DragonballZ"
+    },
+    {
+      "id": 64,
+      "title": "Son Goku vs Uub",
+      "src": "https://i.pinimg.com/originals/69/7e/f5/697ef588332544460088facf0e08994b.gif",
+      "alt": "Son Goku vs uub",
+      "arc": "DragonballZ"
+    },
+    {
+      "id": 65,
+      "title": "Son Goku vs Uub 2",
+      "src": "https://media.tenor.com/7TZqXiwVyKAAAAAM/dragon-ball-z-attack.gif",
+      "alt": "Son Goku vs uub 2",
+      "arc": "DragonballZ"
+    },
+    {
+      "id": 66,
+      "title": "Son Goku",
+      "src": "https://i.makeagif.com/media/1-19-2018/b7TU0S.gif",
+      "alt": "Son Goku",
+      "arc": "DragonballZ"
+    },
+    {
+      "id": 67,
+      "logodb": "https://upload.wikimedia.org/wikipedia/fr/5/55/Dbz_kai_logo_fr.png",
+      "title": "Dragon Ball Kai",
+      "description": "Dragon Ball Kai est une série animée reprenant Dragon Ball Z, visant à améliorer la qualité audio et visuelle tout en suivant de près la série originale. La série présente une animation améliorée et des voix réenregistrées, avec des arcs fidèles comme celui des Saiyans.",
+      "arc": "DragonballKai"
+    },
+
+    {
+      "id": 68,
+      "logodb": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/677b7403-76bf-4871-b1eb-996331c62c03/d4h8uas-3fdaa465-7e94-4b4a-b7da-ae5405fbdbfb.png/v1/fill/w_800,h_275/logo___dragon_ball_gt_anime_original_04_by_vicdbz_d4h8uas-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Mjc1IiwicGF0aCI6IlwvZlwvNjc3Yjc0MDMtNzZiZi00ODcxLWIxZWItOTk2MzMxYzYyYzAzXC9kNGg4dWFzLTNmZGFhNDY1LTdlOTQtNGI0YS1iN2RhLWFlNTQwNWZiZGJmYi5wbmciLCJ3aWR0aCI6Ijw9ODAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.4TknuPYDPW4CwPMgYeIoHwS__IyZS1q7x_kTmAHswZg",
+      "title": "Dragon Ball Gt introduction",
+      "description": "Dragon Ball GT est une série qui se déroule après les événements de Dragon Ball Z, mais elle n'est pas considérée comme canon dans l'univers principal de Dragon Ball. Créée par Toei Animation, cette série offre une aventure alternative avec Goku, qui, après un souhait fait par Pilaf, redevient un enfant et part dans une quête à travers l'univers. Bien qu'elle soit souvent considérée comme hors-série, Dragon Ball GT propose des combats, de nouveaux personnages et des arcs qui continuent l'histoire de Goku et de ses amis.",
+      "arc": "DragonBallGT"
+    },
+    {
+      "id": 69,
+      "title": "Arc 1 : La quête des Dragon Balls Ultimes",
+      "description": "Goku, redevenu enfant à cause d'un souhait, part en quête des Dragon Balls Noires avec Pan et Trunks. Ils doivent parcourir l'univers pour les collecter avant que la Terre ne soit détruite. Durant leur voyage, ils affrontent divers ennemis, dont les Dragons maléfiques.",
+      "arc": "DragonBallGT"
+    },
+    {
+      "id": 70,
+      "title": "Son Goku Pan Trunk",
+      "src": "https://media.tenor.com/cfSoHht-IhgAAAAM/dragon-ball-gt-dance.gif",
+      "alt": "Son Goku Pan Trunk",
+      "arc": "DragonBallGT"
+    },
+    {
+      "id": 71,
+      "title": "Son Goku Pan Trunk 2",
+      "src": "https://64.media.tumblr.com/f955c87fbe79e0d5b22270bda9d18fa1/tumblr_pdhg5wfaru1wyh2j4o1_500.gifv",
+      "alt": "Son Goku Pan Trunk 2",
+      "arc": "DragonBallGT"
+    },
+    {
+      "id": 72,
+      "title": "Son Goku Pan Trunk Gigi",
+      "src": "https://giffiles.alphacoders.com/208/208177.gif",
+      "alt": "Son Goku Pan Trunk Gigi",
+      "arc": "DragonBallGT"
+    },
+    {
+      "id": 73,
+      "title": "Son Goku SSJ4",
+      "src": "https://www.dragon-ball-gif.com/wp-content/uploads/2023/10/Goku-Super-Saiyan-4-Revenge-Death-Ball.gif",
+      "alt": "Son Goku SSJ4",
+      "arc": "DragonBallGT"
+    },
+    {
+      "id": 74,
+      "title": "Son Goku vs Baby",
+      "src": "https://i.pinimg.com/originals/63/d2/3d/63d23d3f32a0556620e28b1864bf2cd2.gif",
+      "alt": "Son Goku vs Baby",
+      "arc": "DragonBallGT"
+    },
+    {
+      "id": 75,
+      "title": "Son Goku vs Baby 2",
+      "src": "https://pa1.aminoapps.com/6782/b34a32beabc6250900634949ed62da761c1c549c_hq.gif",
+      "alt": "Son Goku vs Baby 2",
+      "arc": "DragonBallGT"
+    },
+    {
+      "id": 76,
+      "title": "Arc 3 : Super C-17",
+      "description": "Dr. Gero et Dr. Myu recréent un Super C-17 plus puissant, qu'ils envoient sur Terre après avoir ouvert un portail vers l'Enfer. Des anciens ennemis reviennent, mais Goku parvient à les éliminer. Le combat final contre le Super C-17 dénoue cette crise.",
+      "arc": "DragonBallGT"
+    },
+    {
+      "id": 77,
+      "title": "Dr Gero et Dr Myuu",
+      "src": "https://media1.tenor.com/m/fuQBZmFMK90AAAAd/dr-gero-dr-myuu.gif",
+      "alt": "Dr Gero et Dr Myuu",
+      "arc": "DragonBallGT"
+    },
+    {
+      "id": 78,
+      "title": "C17",
+      "src": "https://media1.tenor.com/m/pi6p_4EaVyoAAAAd/dragon-ball-gt-android17.gif",
+      "alt": "C17",
+      "arc": "DragonBallGT"
+    },
+    {
+      "id": 79,
+      "title": "Son Goku SSJ1",
+      "src": "https://i.makeagif.com/media/7-11-2016/LuUl4W.gif",
+      "alt": "Son Goku SSJ1",
+      "arc": "DragonBallGT"
+    },
+    {
+      "id": 80,
+      "title": "Son Goku vs C17",
+      "src": "https://i.makeagif.com/media/7-19-2016/N9WTI0.gif",
+      "alt": "Son Goku vs C17",
+      "arc": "DragonBallGT"
+    },
+    {
+      "id": 81,
+      "title": "Arc 4 : Les Dragons maléfiques",
+      "description": "Les Dragon Balls ont accumulé de l'énergie négative après avoir été utilisées à plusieurs reprises, donnant naissance à sept dragons maléfiques. Goku et ses amis doivent les vaincre pour restaurer l'équilibre dans l'univers. Le combat final est contre le plus puissant d'entre eux, Li Shenron, et Goku, avec l'aide de Vegeta en Super Saiyan 4, sauve une fois de plus la Terre.",
+      "arc": "DragonBallGT"
+    },
+    {
+      "id": 82,
+      "title": "Son Goku et Vegeta SSJ4",
+      "src": "https://pa1.aminoapps.com/6833/6104996dd90b04453b3bd4fcb9a20d44ed2f28c4_hq.gif",
+      "alt": "Son Goku et Vegeta SSJ4",
+      "arc": "DragonBallGT"
+    },
+    {
+      "id": 83,
+      "title": "Son Goku vs Suu Sheron",
+      "src": "https://static.wikia.nocookie.net/14422ee1-fc02-4cdb-9886-f56334055070/scale-to-width/370",
+      "alt": "Son Goku vs Suu Sheron",
+      "arc": "DragonBallGT"
+    },
+    {
+      "id": 84,
+      "title": "Omega Sheron vs Vegeta",
+      "src": "https://i.redd.it/1l0cynhjiu8d1.gif",
+      "alt": "Omega Sheron vs Vegeta",
+      "arc": "DragonBallGT"
+    },
+    {
+      "id": 85,
+      "title": "Gogeta SSJ4",
+      "src": "https://i.pinimg.com/originals/78/09/8b/78098b923007c58adbaa9d9bb0bd7247.gif",
+      "alt": "Gogeta SSJ4",
+      "arc": "DragonBallGT"
+    },
+    {
+      "id": 86,
+      "title": "Son Goku GT Genkidama",
+      "src": "https://i.makeagif.com/media/12-10-2015/9-GvNi.gif",
+      "alt": "Son Goku GT Genkidama",
+      "arc": "DragonBallGT"
+    },
+    {
+      "id": 87,
+      "title": "Arc de l'épilogue",
+      "description": "Dans cet arc, Goku se retrouve confronté à une situation où il doit dire au revoir à ses amis et à sa famille. Un aspect majeur est sa décision de quitter la Terre pour une nouvelle aventure, prenant la forme de l'entraînement de Uub. Ce dernier arc met un terme aux événements principaux de Dragon Ball GT.",
+      "arc": "DragonBallGT"
+    },
+    {
+      "id": 88,
+      "title": "Son Goku GT Fin",
+      "src": "https://pa1.aminoapps.com/6064/470eba3ed595ce55b1efb7c9fdb00635d1c6b8a9_hq.gif",
+      "alt": "Son Goku GT Fin",
+      "arc": "DragonBallGT"
+    },
+    {
+      "id": 89,
+      "logodb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Dragon_Ball_Super.png/1024px-Dragon_Ball_Super.png",
+      "title": "Arc 1 : La saga de la bataille des dieux",
+      "description": "Après la fin de Dragon Ball Z, Beerus, le Dieu de la Destruction, cherche un combattant digne de son titre et un combat épique contre Goku en **Super Saiyan God** s'ensuit. Bien que Goku perde, Beerus décide de ne pas détruire la planète.",
+      "arc": "DragonBallSUPER"
+    },
+    {
+      "id": 90,
+      "title": "Beerus vs Son Goku ssj3",
+      "src": "https://giffiles.alphacoders.com/173/173151.gif",
+      "alt": "Beerus vs Son Goku ssj3",
+      "arc": "DragonBallSUPER"
+    },
+    {
+      "id": 91,
+      "title": "Son Goku ssj god",
+      "src": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTNmcWplODM2ZXU3a3NibjUzdnppaGxkdmZwYTk5ZGdybHRrM2hvOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gHWiwrUzERHgQ2Y79Q/giphy.webp",
+      "alt": "Son Goku ssj god",
+      "arc": "DragonBallSUPER"
+    },
+    {
+      "id": 92,
+      "title": "Beerus Vs Goku",
+      "src": "https://i.makeagif.com/media/1-08-2024/_AGlM_.gif",
+      "alt": "Beerus Vs Goku",
+      "arc": "DragonBallSUPER"
+    },
+    {
+      "id": 93,
+      "title": "Arc de la résurrection de F",
+      "description": "Après la résurrection de Freezer par le sorcier Sorbet et le général Tagoma, Freezer revient sur Terre dans sa forme finale et acquiert la forme de Super Saiyan Bleu. La bataille qui s'ensuit entre lui et Goku, avec l'aide de Vegeta, est intense. Freezer, dans sa nouvelle forme, parvient à provoquer des destructions massives. Cependant, après une lutte acharnée, Freezer est défaillant par Goku, mettant fin à sa menace pour la Terre.",
+      "arc": "DragonBallSUPER"
+    },
+    {
+      "id": 94,
+      "title": "Goku Super Saiyan Blue face à Freezer",
+      "src": "https://i.pinimg.com/originals/a3/78/44/a37844c218ab1d95329232fd3add6f50.gif",
+      "alt": "Goku Super Saiyan Blue face à Freezer",
+      "arc": "DragonBallSUPER"
+    },
+    {
+      "id": 95,
+      "title": "Freezer forme finale",
+      "src": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e76079e3-e204-431f-a12c-fa6801d07c33/dfzju3w-f318c923-1cf0-4c6f-b861-68ab078aa8a9.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U3NjA3OWUzLWUyMDQtNDMxZi1hMTJjLWZhNjgwMWQwN2MzM1wvZGZ6anUzdy1mMzE4YzkyMy0xY2YwLTRjNmYtYjg2MS02OGFiMDc4YWE4YTkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.6ADx645lsZz8sOqxmSEF0pqixq3I-iMI1gqVwvnc9NE",
+      "alt": "Freezer forme finale",
+      "arc": "DragonBallSUPER"
+    },
+    {
+      "id": 96,
+      "title": "Vegeta face à Freezer",
+      "src": "https://media.tenor.com/2Zsub5hzAHAAAAAM/vegeta-frieza.gif",
+      "alt": "Vegeta face à Freezer",
+      "arc": "DragonBallSUPER"
+    },
+    {
+      "id": 97,
+      "title": "Arc du tournoi de l'univers 6",
+      "description": "Dans cet arc, un tournoi inter-univers est organisé entre l'univers 7 (celui de Goku) et l'univers 6 (dirigé par Champa, le frère de Beerus). Les équipes s'affrontent dans un tournoi pour gagner des Dragon Balls universelles. Goku affronte Hit, un assassin de l'univers 6, et les deux univers mettent tout en œuvre pour remporter la victoire. Cet arc présente de nouveaux personnages, dont Cabba, Frost et Magetta.",
+      "arc": "DragonBallSUPER"
+    },
+    {
+      "id": 98,
+      "title": "Goku face à Hit",
+      "src": "https://i.pinimg.com/originals/f4/2a/8f/f42a8fb6d254bb6ba8d5ec067970ce58.gif",
+      "alt": "Goku face à Hit dans le tournoi de l'univers 6",
+      "arc": "DragonBallSUPER"
+    },
+    {
+      "id": 99,
+      "title": "Vegeta contre Cabba",
+      "src": "https://i.pinimg.com/originals/7e/93/4a/7e934a82f1f2599b3f013f079c815e76.gif",
+      "alt": "Vegeta contre Cabba dans le tournoi de l'univers 6",
+      "arc": "DragonBallSUPER"
+    },
+    {
+      "id": 100,
+      "title": "Frost triche dans le tournoi",
+      "src": "https://media.tenor.com/images/d5873e3de01332b662e62356de74ac31/tenor.gif",
+      "alt": "Frost triche lors du tournoi de l'univers 6",
+      "arc": "DragonBallSUPER"
+    },
+    {
+      "id": 101,
+      "title": "Goku contre Magetta",
+      "src": "https://i.pinimg.com/originals/19/1e/a7/191ea7e58f405d5ecb9a42db59c9cd6e.gif",
+      "alt": "Goku contre Magetta dans le tournoi de l'univers 6",
+      "arc": "DragonBallSUPER"
+    },
+    {
+      "id": 102,
+      "title": "Arc du futur de Trunks",
+      "description": "Ce volet raconte l'histoire de Trunks du futur, qui revient dans le présent pour demander l'aide de Goku et Vegeta face à un nouvel ennemi mystérieux : Black Goku. Black Goku est une version maléfique de Goku venant d'un futur alternatif, et il s'avère être un adversaire dangereux, avec des pouvoirs impressionnants. Trunks et les Z Fighters se battent pour protéger le futur et comprendre la véritable nature de Black Goku et de Zamasu, un Dieu de la Destruction corrompu. Cet arc explore des thèmes comme la vengeance, le destin et la lutte contre des ennemis venus de réalités parallèles.",
+      "arc": "DragonBallSUPER"
+    },
+    {
+      "id": 103,
+      "title": "Trunks vs Black Goku",
+      "src": "https://i.pinimg.com/originals/ce/cf/97/cecf974d1e6ff2024111d4e91cd3b594.gif",
+      "alt": "Trunks du futur face à Black Goku",
+      "arc": "DragonBallSUPER"
+    },
+    {
+      "id": 104,
+      "title": "Black Goku Super saiyen rosé",
+      "src": "https://i.pinimg.com/originals/96/71/77/9671777609a830bf3633657274c202d9.gif",
+      "alt": "Goku Black transformation",
+      "arc": "DragonBallSUPER"
+    },
+
+    {
+      "id": 106,
+      "title": "Vegetto blue final kamehameha",
+      "src": "https://i.pinimg.com/originals/55/ce/7e/55ce7e048cd1c0d6f6e8795f051598af.gif",
+      "alt": "Vegetto Ssj Bleu",
+      "arc": "DragonBallSUPER"
+    },
+    {
+      "id": 107,
+      "title": "Trunks vs Zamasu fusionner",
+      "src": "https://i.pinimg.com/originals/0c/83/53/0c835356686642f2735db263433ef705.gif",
+      "alt": "Zamasu fusionné",
+      "arc": "DragonBallSUPER"
+    },
+    {
+      "id": 108,
+      "title": "Arc du tournoi du pouvoir",
+      "description": "Organisé par Zeno-sama, cet arc met en scène un tournoi inter-univers où des équipes doivent s'affronter pour éviter l'extermination de leur univers. Goku et ses alliés de l'univers 7 combattent des adversaires redoutables, notamment Jiren de l'univers 11. Goku atteint la forme Ultra Instinct, et l'univers 7 triomphe, sauvant ainsi sa propre existence.",
+      "arc": "DragonBallSUPER"
+    },
+    {
+      "id": 109,
+      "title": "Goku ultra instint vs Jiren",
+      "src": "https://www.db-z.com/wp-content/uploads/2017/10/Jiren-vs-Goku-ultra-instinct-gif.gif",
+      "alt": "Goku en Ultra Instinct face à Jiren",
+      "className": "author-static-image",
+      "arc": "DragonBallSUPER"
+    },
+    {
+      "id": 110,
+      "title": "Goku Kamehameha surf Kefla",
+      "src": "https://giffiles.alphacoders.com/220/220207.gif",
+      "alt": "Goku Ultra Instinct",
+      "className": "author-static-image",
+      "arc": "DragonBallSUPER"
+    },
+    {
+      "id": 111,
+      "title": "Goku ultra instint maitrisé enragé face à Jiren",
+      "src": "https://giffiles.alphacoders.com/208/208599.gif",
+      "alt": "Jiren combat Goku",
+      "className": "author-static-image",
+      "arc": "DragonBallSUPER"
+    },
+    {
+      "id": 112,
+      "src": "https://media.tenor.com/Bk4nUK82h30AAAAM/dragon-ball-super-goku-and-frieza.gif",
+      "alt": "Freezer et Goku",
+      "className": "author-static-image",
+      "arc": "DragonBallSUPER"
+    },
+    {
+      "id": 113,
+      "title": "Arc de Moro",
+      "description": "Moro, un ancien sorcier dévastateur, revient pour voler l'énergie des planètes et devient une menace majeure pour l'univers. Goku et Vegeta affrontent Moro dans des combats intenses, avec Goku qui accède à de nouvelles limites pour vaincre ce puissant adversaire.",
+      "arc": "DragonBallSUPER"
+    },
+    {
+      "id": 114,
+      "src": "https://media.tenor.com/O-ey4QrfVO8AAAAM/moro-dbs.gif",
+      "alt": "Moro",
+      "className": "author-static-image",
+      "arc": "DragonBallSUPER"
+    },
+    {
+      "id": 115,
+      "src": "https://media.tenor.com/IqlfPCaCResAAAAM/moro-dragon-ball-super.gif",
+      "alt": "Moro vs Goku",
+      "className": "author-static-image",
+      "arc": "DragonBallSUPER"
+    },
+    {
+      "id": 116,
+      "titre": "Arc de Granolah",
+      "description": "Dans cet arc, Granolah, un survivant d'une race extraterrestre, cherche à se venger des Saiyans pour la destruction de son peuple. Il utilise les Dragon Balls pour obtenir des pouvoirs phénoménaux et devient l'un des plus puissants combattants. Goku et Vegeta l'affrontent, et l'arc explore des thèmes de vengeance et de rédemption.",
+      "arc": "DragonBallSUPER"
+    },
+    {
+      "id": 116,
+      "logodb": "https://upload.wikimedia.org/wikipedia/commons/7/79/Dragon_Ball_Daima_Logo.png",
+      "title": "Dragon Ball Daima",
+      "description": "Dragon Ball Daima est une nouvelle série animée dans l'univers de Dragon Ball, où les personnages principaux, dont Goku, sont mystérieusement transformés en versions plus jeunes d'eux-mêmes. L'intrigue tourne autour de leur quête pour retrouver leur forme adulte tout en affrontant de nouveaux ennemis et en revisitant les lieux familiers de la franchise. L'anime est marqué par son retour à un style d'animation plus proche de l'époque classique de Dragon Ball. Actuellement, la série est toujours en cours de diffusion, avec de nouveaux épisodes à venir.",
+      "arc": "DragonballDaima"
+    },
+    {
+      "id": 117,
+      "src": "https://media.tenor.com/QiC0bLqSIQEAAAAM/dragon-ball-daima-daima.gif",
+      "alt": "Son Goku Db Daima",
+      "className": "author-static-image",
+      "arc": "DragonballDaima"
+    },
+    {
+      "id": 118,
+      "src": "https://64.media.tumblr.com/4ea67d6318e680750f105a640c67defb/b56448a89f875284-72/s540x810/b50dc7d96432d58aab8bc84d39009854fc43d51a.gifv",
+      "alt": "Son Goku ssj db daima",
+      "className": "author-static-image",
+      "arc": "DragonballDaima"
+    }
+  ]
+}
